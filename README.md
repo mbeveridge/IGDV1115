@@ -19,11 +19,9 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 * Part 6: Summary
 * Part 7: Conclusion
 
-WK1 Redesign Exercise :
-
-[A tale of two economies](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
+[WK1 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
 ![A tale of two economies](/data/china_vs_us_finalr3.png)
-![A tale of two economies](/results/2015-11-20 21.02.52.jpg)
+![A tale of two economies](/results/2015-11-20_21.02.52.jpg)
 
 ---
 
