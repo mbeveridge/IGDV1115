@@ -49,5 +49,10 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 * 5×4: Another Example
 * 5×5: Only Show What You Know
 
+
+[A tale of two economies](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
+![A tale of two economies](/data/china_vs_us_finalr3.png)
+![A tale of two economies](/results/2015-11-20 21.02.52.jpg)
+
 ![certificate](IGDV1115_Certificate.png
  "certificate")
