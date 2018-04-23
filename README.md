@@ -39,6 +39,11 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 * 3×4: Creation Process for Maps and Graphs
 * 3×5: Example
 
+[WK2 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
+
+![A tale of two economies]( "original")
+![A tale of two economies]( "redesign")
+
 ---
 
 ### Module 3
@@ -57,6 +62,22 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 * 5×3: Don’t Over Simplify
 * 5×4: Another Example
 * 5×5: Only Show What You Know
+
+[WK3 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
+
+![A tale of two economies]( "original")
+![A tale of two economies]( "redesign")
+
+---
+
+[WK4 Redesign Exercise :](http://s3.amazonaws.com/awesome.good.is/infographics/images/000/000/438/original/1360306814.jpg)
+
+"_Imagine that you work in a lifestyle magazine or website and your editor shows you this infographic and mentions that she'd like to use those same data in your publication, as an interactive graphic. She LOVES the original project, by the way, so she wants you to do something similar. But, you know, you're part of this MOOC, so you feel that this is a deeply flawed project at many levels. Therefore, you are sure you can offer something much better. You will need to apply everything you've learned so far in this course. You need to redesign it_"
+
+![Who's Buying What?](/data/1360306814.jpg "original")
+![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "redesign")
+
+[_At the time, it was optimised perfectly - all text visible, boxes aligned & outlined, (and keeping original colours, font, dimensions). But TableauPublic 'messes it up' a bit now, when I want a screenshot :)_]
 
 ---
 
