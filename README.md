@@ -76,9 +76,9 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 
 ![Who's Buying What?](/data/1360306814.jpg "original")
 
-[TableauPublic](https://public.tableau.com/profile/mbeveridge#!/vizhome/IGDV1115Wk4WhoBuyWhatredesign/Dashboard1) has a working version, with clickable map/bars, and informative popups
+[TableauPublic](https://public.tableau.com/profile/mbeveridge#!/vizhome/IGDV1115Wk4WhoBuyWhatredesign/Dashboard1) has a working version, with clickable map/bars, and informative popups :
 
-[_In 2015, it was optimised perfectly - all text visible, boxes aligned & outlined, (and keeping original colours, font, dimensions). But TableauPublic 'messes it up' a bit, when I want a screenshot in 2018 :)_]
+[_In 2015, it was optimised perfectly - all text visible, boxes aligned & outlined, (and trying to keep original colours, font, dimensions). But TableauPublic 'messes it up' a bit, when I want a screenshot in 2018 :)_]
 
 ![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "redesign")
 
