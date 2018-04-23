@@ -21,6 +21,8 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 
 [WK1 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
 
+"_The main task this week is to participate in an open discussion about one of several graphics I am proposing ... If you decide to try to redesign the graphic, please do. It could be a great contribution to the discussion. Don't worry if you don't know how to use any software tool. I love hand-drawn sketches_"
+
 ![A tale of two economies](/data/china_vs_us_finalr3.png "original")
 ![A tale of two economies](/results/2015-11-20_21.02.52.jpg "redesign")
 
