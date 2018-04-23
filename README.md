@@ -75,9 +75,12 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 "_Imagine that you work in a lifestyle magazine or website and your editor shows you this infographic and mentions that she'd like to use those same data in your publication, as an interactive graphic. She LOVES the original project, by the way, so she wants you to do something similar. But, you know, you're part of this MOOC, so you feel that this is a deeply flawed project at many levels. Therefore, you are sure you can offer something much better. You will need to apply everything you've learned so far in this course. You need to redesign it_"
 
 ![Who's Buying What?](/data/1360306814.jpg "original")
-![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "redesign")
 
-[_At the time, it was optimised perfectly - all text visible, boxes aligned & outlined, (and keeping original colours, font, dimensions). But TableauPublic 'messes it up' a bit now, when I want a screenshot :)_]
+[TableauPublic](https://public.tableau.com/profile/mbeveridge#!/vizhome/IGDV1115Wk4WhoBuyWhatredesign/Dashboard1) has a working version, with clickable map/bars, and informative popups
+
+[_In 2015, it was optimised perfectly - all text visible, boxes aligned & outlined, (and keeping original colours, font, dimensions). But TableauPublic 'messes it up' a bit, when I want a screenshot in 2018 :)_]
+
+![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "redesign")
 
 ---
 
