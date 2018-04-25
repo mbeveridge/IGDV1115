@@ -41,10 +41,11 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 * 3×4: Creation Process for Maps and Graphs
 * 3×5: Example
 
-[WK2 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
+[WK2 Redesign Exercise :](https://www.flickr.com/photos/goodmagazine/3577284548/in/set-72157618896371005)
 
-![A tale of two economies]( "original")
-![A tale of two economies]( "redesign")
+"_Imagine that you work for a newspaper, a magazine, or a website. You receive this graphic from a source. You want to publish your own graphic based on the data they show, but you feel that you can improve the display. ... Write a critique of the graphic_"
+
+![Seeking Refuge](/data/seekingrefuge_screenshot.png "original")
 
 ---
 
