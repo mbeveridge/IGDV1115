@@ -71,28 +71,26 @@ Introduction to Infographics and Data Visualization [video] 2/11/15
 "_In June 2013, The New York Times published a series of stories about how expensive medical treatments can be in the U.S. ... As a part of that series, the Times included a print graphic in which it showed the highest and the lowest prices of colonoscopies in many metropolitan areas. Imagine that you are hired by NYT as an external consultant. They ask you about your opinion about the map ... and to come back a week later for a meeting in which you will have to explain how you would make it a bit better, and how you would add interactivity to it_"
 
 ![The Cost of a Colonoscopy Varies Across the Country](/data/colonoscopy_screenshot.png "original")
-![Colon Cancer : What price peace of mind?](/results/Screenshot_2018-04-24_23.21.13.png "redesign")
+
+![Colon Cancer : What price peace of mind?](/results/Screenshot_2018-04-24_23.21.13.png "static redesign")
+
+![A tale of two economies](/results/Screenshot_2018-04-24_23.22.26.png "interactive redesign")
 
 ---
 
-[WK4 Redesign Exercise :](http://www.scmp.com/infographics/article/1862273/infographic-tale-two-economies)
-
-![A tale of two economies]( "original")
-![A tale of two economies]( "redesign")
-
----
-
-[WK5 Redesign Exercise :](http://s3.amazonaws.com/awesome.good.is/infographics/images/000/000/438/original/1360306814.jpg)
+[WK4 Redesign Exercise :](http://s3.amazonaws.com/awesome.good.is/infographics/images/000/000/438/original/1360306814.jpg)
 
 "_Imagine that you work in a lifestyle magazine or website and your editor shows you this infographic and mentions that she'd like to use those same data in your publication, as an interactive graphic. She LOVES the original project, by the way, so she wants you to do something similar. But, you know, you're part of this MOOC, so you feel that this is a deeply flawed project at many levels. Therefore, you are sure you can offer something much better. You will need to apply everything you've learned so far in this course. You need to redesign it_"
 
 ![Who's Buying What?](/data/1360306814.jpg "original")
 
+![Who's Buying What?](/results/Screenshot_2018-04-26_17.18.23.png "initial redesign")
+
 [TableauPublic](https://public.tableau.com/profile/mbeveridge#!/vizhome/IGDV1115Wk4WhoBuyWhatredesign/Dashboard1) has a working version, with clickable map/bars, and informative popups :
 
 [_In 2015, it was optimised perfectly - all text visible, boxes aligned & outlined, (and trying to keep original colours, font, dimensions). But TableauPublic 'messes it up' a bit, when I want a screenshot in 2018 :)_]
 
-![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "redesign")
+![Who's Buying What?](/results/Screenshot_2018-04-23_18.00.22.png "final redesign")
 
 ---
 
